@@ -8,8 +8,6 @@ android {
         targetSdkVersion 26
         versionCode 10
         versionName "2.0.0"
-        group = 'com.ss.bannerslider'
-        version = '2.0.0'
     }
     buildTypes {
         release {
